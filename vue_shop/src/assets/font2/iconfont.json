@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16020747",
+      "name": "折叠2",
+      "font_class": "zhedie2",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "21585986",
+      "name": "折叠",
+      "font_class": "zhedie",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "27876483",
+      "name": "侧边栏 分类 折叠",
+      "font_class": "a-cebianlanfenleizhedie",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "27876504",
+      "name": "分类 折叠 侧边栏",
+      "font_class": "a-fenleizhediecebianlan",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+/* 全局样式表 */
+html,body,#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1366px;
+}
+.el-breadcrumb {
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+.el-card {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+.el-table {
+    margin-top: 25px;
+    font-size: 13px;
+}
+.el-pagination {
+    margin-top: 25px;
+    text-align: center;
+}
+.el-form-item.is-success .el-input__inner {     
+    border: 1px solid greenyellow !important; 
+}
+.v-center {
+    display: flex;
+    align-items: center;
+}
+.row-center {
+    text-align: center;
+}
+.zk-table__cell-inner {
+    padding: 15px 12px;
+    text-align: center;
+}
+.buttonStyle {
+    display: flex;
+    justify-content: center
+}
+.el-cascader-menu {
+    height: 250px !important;
+}
+.el-tag {
+    margin: 10px;
+}
+.el-steps {
+    margin: 15px 0;
+}
+.el-step__title {
+    font-size: 13px;
+}
+.ql-editor {
+    min-height: 300px;
+}
+
+
+
